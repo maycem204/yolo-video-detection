@@ -30,6 +30,3 @@ Finally, we will calculate a player's speed and the distance covered. This proje
 
 ---
 
-## 📹 Sample Video
-
-- Sample input video
